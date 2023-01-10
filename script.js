@@ -90,6 +90,7 @@ var upperCasedCharacters = [
 
 // Function to prompt user for password options
 function getPasswordOptions() {
+ 
 
 }
 
@@ -100,6 +101,10 @@ function getRandom(arr) {
 
 // Function to generate password with user input
 function generatePassword() {
+  let randomPassword = "";
+  for(let i = 0; i < getPasswordOptions(); i++){
+    randomPassword += userPreference[Math.floor(Math.random() * userPreference.length)];
+  } return generatePassword;
 
 }
 
