@@ -1,4 +1,7 @@
 # Password-Generator
+## Link to the page
+https://lisaevermore.github.io/Password-Generator/
+
 ### Overview 
 This project is a password generator application that allows an employee to generate a random password based on certain criteria that they select. The app runs in the browser and is powered by JavaScript code. The user interface is responsive, ensuring that it adapts to multiple screen sizes. The app has a clean and polished user interface.
 
